@@ -275,7 +275,6 @@ async def play(ctx, *, query: str):
             guild_id = interaction.guild.id
             queue = get_queue(guild_id)
             queue.clear()
-
             vc = interaction.guild.voice_client
             if vc:
                 vc.stop()  # safe stop
