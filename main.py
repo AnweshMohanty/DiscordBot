@@ -1,4 +1,12 @@
-pk=["Bulbasaur","Ivysaur","Venusaur","Charmander","Charmeleon","Charizard","Squirtle","Wartortle","Blastoise","Caterpie","Metapod","Butterfree","Weedle","Kakuna","Beedrill","Pidgey","Pidgeotto","Pidgeot","Rattata","Raticate","Spearow","Fearow","Ekans","Arbok","Pikachu","Raichu","Sandshrew","Sandslash","Nidoran♀","Nidorina","Nidoqueen","Nidoran♂","Nidorino","Nidoking","Clefairy","Clefable","Vulpix","Ninetales","Jigglypuff","Wigglytuff","Zubat","Golbat","Oddish","Gloom","Vileplume","Paras","Parasect","Venonat","Venomoth","Diglett","Dugtrio","Meowth","Persian","Psyduck","Golduck","Mankey","Primeape","Growlithe","Arcanine","Poliwag","Poliwhirl","Poliwrath","Abra","Kadabra","Alakazam","Machop","Machoke","Machamp","Bellsprout","Weepinbell","Victreebel","Tentacool","Tentacruel","Geodude","Graveler","Golem","Ponyta","Rapidash","Slowpoke","Slowbro","Magnemite","Magneton","Farfetch'd","Doduo","Dodrio","Seel","Dewgong","Grimer","Muk","Shellder","Cloyster","Gastly","Haunter","Gengar","Onix","Drowzee","Hypno","Krabby","Kingler","Voltorb","Electrode","Exeggcute","Exeggutor","Cubone","Marowak","Hitmonlee","Hitmonchan","Lickitung","Koffing","Weezing","Rhyhorn","Rhydon","Chansey","Tangela","Kangaskhan","Horsea","Seadra","Goldeen","Seaking","Staryu","Starmie","Mr. Mime","Scyther","Jynx","Electabuzz","Magmar","Pinsir","Tauros","Magikarp","Gyarados","Lapras","Ditto","Eevee","Vaporeon","Jolteon","Flareon","Porygon","Omanyte","Omastar","Kabuto","Kabutops","Aerodactyl","Snorlax","Articuno","Zapdos","Moltres","Dratini","Dragonair","Dragonite","Mewtwo","Mew","Chikorita","Bayleef","Meganium","Cyndaquil","Quilava","Typhlosion","Totodile","Croconaw","Feraligatr","Sentret","Furret","Hoothoot","Noctowl","Ledyba","Ledian","Spinarak","Ariados","Crobat","Chinchou","Lanturn","Pichu","Cleffa","Igglybuff","Togepi","Togetic","Natu","Xatu","Mareep","Flaaffy","Ampharos","Bellossom","Marill","Azumarill","Sudowoodo","Politoed","Hoppip","Skiploom","Jumpluff","Aipom","Sunkern","Sunflora","Yanma","Wooper","Quagsire","Espeon","Umbreon","Murkrow","Slowking","Misdreavus","Unown","Wobbuffet","Girafarig","Pineco","Forretress","Dunsparce","Gligar","Steelix","Snubbull","Granbull","Qwilfish","Scizor","Shuckle","Heracross","Sneasel","Teddiursa","Ursaring","Slugma","Magcargo","Swinub","Piloswine","Corsola","Remoraid","Octillery","Delibird","Mantine","Skarmory","Houndour","Houndoom","Kingdra","Phanpy","Donphan","Porygon2","Stantler","Smeargle","Tyrogue","Hitmontop","Smoochum","Elekid","Magby","Miltank","Blissey","Raikou","Entei","Suicune","Larvitar","Pupitar","Tyranitar","Lugia","Ho-Oh","Celebi","Treecko","Grovyle","Sceptile","Torchic","Combusken","Blaziken","Mudkip","Marshtomp","Swampert","Poochyena","Mightyena","Zigzagoon","Linoone","Wurmple","Silcoon","Beautifly","Cascoon","Dustox","Lotad","Lombre","Ludicolo","Seedot","Nuzleaf","Shiftry","Taillow","Swellow","Wingull","Pelipper","Ralts","Kirlia","Gardevoir","Surskit","Masquerain","Shroomish","Breloom","Slakoth","Vigoroth","Slaking","Nincada","Ninjask","Shedinja","Whismur","Loudred","Exploud","Makuhita","Hariyama","Azurill","Nosepass","Skitty","Delcatty","Sableye","Mawile","Aron","Lairon","Aggron","Meditite","Medicham","Electrike","Manectric","Plusle","Minun","Volbeat","Illumise","Roselia","Gulpin","Swalot","Carvanha","Sharpedo","Wailmer","Wailord","Numel","Camerupt","Torkoal","Spoink","Grumpig","Spinda","Trapinch","Vibrava","Flygon","Cacnea","Cacturne","Swablu","Altaria","Zangoose","Seviper","Lunatone","Solrock","Barboach","Whiscash","Corphish","Crawdaunt","Baltoy","Claydol","Lileep","Cradily","Anorith","Armaldo","Feebas","Milotic","Castform","Kecleon","Shuppet","Banette","Duskull","Dusclops","Tropius","Chimecho","Absol","Wynaut","Snorunt","Glalie","Spheal","Sealeo","Walrein","Clamperl","Huntail","Gorebyss","Relicanth","Luvdisc","Bagon","Shelgon","Salamence","Beldum","Metang","Metagross","Regirock","Regice","Registeel","Latias","Latios","Kyogre","Groudon","Rayquaza","Jirachi","Deoxys","Turtwig","Grotle","Torterra","Chimchar","Monferno","Infernape","Piplup","Prinplup","Empoleon","Starly","Staravia","Staraptor","Bidoof","Bibarel","Kricketot","Kricketune","Shinx","Luxio","Luxray","Budew","Roserade","Cranidos","Rampardos","Shieldon","Bastiodon","Burmy","Wormadam","Mothim","Combee","Vespiquen","Pachirisu","Buizel","Floatzel","Cherubi","Cherrim","Shellos","Gastrodon","Ambipom","Drifloon","Drifblim","Buneary","Lopunny","Mismagius","Honchkrow","Glameow","Purugly","Chingling","Stunky","Skuntank","Bronzor","Bronzong","Bonsly","Mime Jr.","Happiny","Chatot","Spiritomb","Gible","Gabite","Garchomp","Munchlax","Riolu","Lucario","Hippopotas","Hippowdon","Skorupi","Drapion","Croagunk","Toxicroak","Carnivine","Finneon","Lumineon","Mantyke","Snover","Abomasnow","Weavile","Magnezone","Lickilicky","Rhyperior","Tangrowth","Electivire","Magmortar","Togekiss","Yanmega","Leafeon","Glaceon","Gliscor","Mamoswine","Porygon-Z","Gallade","Probopass","Dusknoir","Froslass","Rotom","Uxie","Mesprit","Azelf","Dialga","Palkia","Heatran","Regigigas","Giratina","Cresselia","Phione","Manaphy","Darkrai","Shaymin","Arceus","Victini","Snivy","Servine","Serperior","Tepig","Pignite","Emboar","Oshawott","Dewott","Samurott","Patrat","Watchog","Lillipup","Herdier","Stoutland","Purrloin","Liepard","Pansage","Simisage","Pansear","Simisear","Panpour","Simipour","Munna","Musharna","Pidove","Tranquill","Unfezant","Blitzle","Zebstrika","Roggenrola","Boldore","Gigalith","Woobat","Swoobat","Drilbur","Excadrill","Audino","Timburr","Gurdurr","Conkeldurr","Tympole","Palpitoad","Seismitoad","Throh","Sawk","Sewaddle","Swadloon","Leavanny","Venipede","Whirlipede","Scolipede","Cottonee","Whimsicott","Petilil","Lilligant","Basculin","Blue-striped Basculin","Sandile","Krokorok","Krookodile","Darumaka","Darmanitan","Maractus","Dwebble","Crustle","Scraggy","Scrafty","Sigilyph","Yamask","Cofagrigus","Tirtouga","Carracosta","Archen","Archeops","Trubbish","Garbodor","Zorua","Zoroark","Minccino","Cinccino","Gothita","Gothorita","Gothitelle","Solosis","Duosion","Reuniclus","Ducklett","Swanna","Vanillite","Vanillish","Vanilluxe","Deerling","Sawsbuck","Emolga","Karrablast","Escavalier","Foongus","Amoonguss","Frillish","Jellicent","Alomomola","Joltik","Galvantula","Ferroseed","Ferrothorn","Klink","Klang","Klinklang","Tynamo","Eelektrik","Eelektross","Elgyem","Beheeyem","Litwick","Lampent","Chandelure","Axew","Fraxure","Haxorus","Cubchoo","Beartic","Cryogonal","Shelmet","Accelgor","Stunfisk","Mienfoo","Mienshao","Druddigon","Golett","Golurk","Pawniard","Bisharp","Bouffalant","Rufflet","Braviary","Vullaby","Mandibuzz","Heatmor","Durant","Deino","Zweilous","Hydreigon","Larvesta","Volcarona","Cobalion","Terrakion","Virizion","Tornadus","Thundurus","Reshiram","Zekrom","Landorus","Kyurem","Keldeo","Meloetta","Genesect","Chespin","Quilladin","Chesnaught","Fennekin","Braixen","Delphox","Froakie","Frogadier","Greninja","Bunnelby","Diggersby","Fletchling","Fletchinder","Talonflame","Scatterbug","Spewpa","Vivillon","Litleo","Pyroar","Flabébé","Floette","Florges","Skiddo","Gogoat","Pancham","Pangoro","Furfrou","Espurr","Meowstic","Honedge","Doublade","Aegislash","Spritzee","Aromatisse","Swirlix","Slurpuff","Inkay","Malamar","Binacle","Barbaracle","Skrelp","Dragalge","Clauncher","Clawitzer","Helioptile","Heliolisk","Tyrunt","Tyrantrum","Amaura","Aurorus","Sylveon","Hawlucha","Dedenne","Carbink","Goomy","Sliggoo","Goodra","Klefki","Phantump","Trevenant","Pumpkaboo","Gourgeist","Bergmite","Avalugg","Noibat","Noivern","Xerneas","Yveltal","Zygarde","Diancie","Hoopa","Volcanion","Rowlet","Dartrix","Decidueye","Litten","Torracat","Incineroar","Popplio","Brionne","Primarina","Pikipek","Trumbeak","Toucannon","Yungoos","Gumshoos","Grubbin","Charjabug","Vikavolt","Crabrawler","Crabominable","Oricorio","Sensu Oricorio","Pa'u Oricorio","Pom-pom Oricorio","Cutiefly","Ribombee","Rockruff","Lycanroc","Wishiwashi","Mareanie","Toxapex","Mudbray","Mudsdale","Dewpider","Araquanid","Fomantis","Lurantis","Morelull","Shiinotic","Salandit","Salazzle","Stufful","Bewear","Bounsweet","Steenee","Tsareena","Comfey","Oranguru","Passimian","Wimpod","Golisopod","Sandygast","Palossand","Pyukumuku","Type: Null","Silvally","Minior","Komala","Turtonator","Togedemaru","Mimikyu","Bruxish","Drampa","Dhelmise","Jangmo-o","Hakamo-o","Kommo-o","Tapu Koko","Tapu Lele","Tapu Bulu","Tapu Fini","Cosmog","Cosmoem","Solgaleo","Lunala","Nihilego","Buzzwole","Pheromosa","Xurkitree","Celesteela","Kartana","Guzzlord","Necrozma","Magearna","Marshadow","Poipole","Naganadel","Stakataka","Blacephalon","Zeraora","Meltan","Melmetal","Grookey","Thwackey","Rillaboom","Scorbunny","Raboot","Cinderace","Sobble","Drizzile","Inteleon","Skwovet","Greedent","Rookidee","Corvisquire","Corviknight","Blipbug","Dottler","Orbeetle","Nickit","Thievul","Gossifleur","Eldegoss","Wooloo","Dubwool","Chewtle","Drednaw","Yamper","Boltund","Rolycoly","Carkol","Coalossal","Applin","Flapple","Appletun","Silicobra","Sandaconda","Cramorant","Arrokuda","Barraskewda","Toxel","Toxtricity","Sizzlipede","Centiskorch","Clobbopus","Grapploct","Sinistea","Polteageist","Hatenna","Hattrem","Hatterene","Impidimp","Morgrem","Grimmsnarl","Obstagoon","Perrserker","Cursola","Sirfetch'd","Mr. Rime","Runerigus","Milcery","Alcremie","Falinks","Pincurchin","Snom","Frosmoth","Stonjourner","Eiscue","Indeedee","Morpeko","Cufant","Copperajah","Dracozolt","Arctozolt","Dracovish","Arctovish","Duraludon","Dreepy","Drakloak","Dragapult","Zacian","Zamazenta","Eternatus","Kubfu","Urshifu","Zarude","Regieleki","Regidrago","Glastrier","Spectrier","Calyrex","Wyrdeer","Kleavor","Ursaluna","Basculegion","Sneasler","Overqwil","Enamorus","Sprigatito","Floragato","Meowscarada","Fuecoco","Crocalor","Skeledirge","Quaxly","Quaxwell","Quaquaval","Lechonk","Oinkologne","Tarountula","Spidops","Nymble","Lokix","Pawmi","Pawmo","Pawmot","Tandemaus","Maushold","Fidough","Dachsbun","Smoliv","Dolliv","Arboliva","Squawkabilly","Nacli","Naclstack","Garganacl","Charcadet","Armarouge","Ceruledge","Tadbulb","Bellibolt","Wattrel","Kilowattrel","Maschiff","Mabosstiff","Shroodle","Grafaiai","Bramblin","Brambleghast","Toedscool","Toedscruel","Klawf","Capsakid","Scovillain","Rellor","Rabsca","Flittle","Espathra","Tinkatink","Tinkatuff","Tinkaton","Wiglett","Wugtrio","Bombirdier","Finizen","Palafin","Varoom","Revavroom","Cyclizar","Orthworm","Glimmet","Glimmora","Greavard","Houndstone","Flamigo","Cetoddle","Cetitan","Veluza","Dondozo","Tatsugiri","Annihilape","Clodsire","Farigiraf","Dudunsparce","Kingambit","Great Tusk","Scream Tail","Brute Bonnet","Flutter Mane","Slither Wing","Sandy Shocks","Iron Treads","Iron Bundle","Iron Hands","Iron Jugulis","Iron Moth","Iron Thorns","Frigibax","Arctibax","Baxcalibur","Gimmighoul","Gholdengo","Wo-Chien","Chien-Pao","Ting-Lu","Chi-Yu","Roaring Moon","Iron Valiant","Koraidon","Miraidon","Walking Wake","Iron Leaves","Dipplin","Poltchageist","Sinistcha","Okidogi","Munkidori","Fezandipiti","Ogerpon","Archaludon","Hydrapple","Gouging Fire","Raging Bolt","Iron Boulder","Iron Crown","Terapagos","Pecharunt"] #1025
+pk=["Bulbasaur","Ivysaur","Venusaur","Charmander","Charmeleon","Charizard","Squirtle","Wartortle","Blastoise","Caterpie","Metapod","Butterfree","Weedle","Kakuna","Beedrill","Pidgey","Pidgeotto","Pidgeot","Rattata","Raticate","Spearow","Fearow","Ekans","Arbok","Pikachu","Raichu","Sandshrew","Sandslash","Nidoran♀","Nidorina","Nidoqueen","Nidoran♂","Nidorino","Nidoking","Clefairy","Clefable","Vulpix","Ninetales","Jigglypuff","Wigglytuff","Zubat","Golbat","Oddish","Gloom","Vileplume","Paras","Parasect","Venonat","Venomoth","Diglett","Dugtrio","Meowth","Persian","Psyduck","Golduck","Mankey","Primeape","Growlithe","Arcanine","Poliwag","Poliwhirl","Poliwrath","Abra","Kadabra","Alakazam","Machop","Machoke","Machamp","Bellsprout","Weepinbell","Victreebel","Tentacool","Tentacruel","Geodude","Graveler","Golem","Ponyta","Rapidash","Slowpoke","Slowbro","Magnemite","Magneton","Farfetch'd","Doduo","Dodrio","Seel","Dewgong","Grimer","Muk","Shellder","Cloyster","Gastly","Haunter","Gengar","Onix","Drowzee","Hypno","Krabby","Kingler","Voltorb","Electrode","Exeggcute","Exeggutor","Cubone","Marowak","Hitmonlee","Hitmonchan","Lickitung","Koffing","Weezing","Rhyhorn","Rhydon","Chansey","Tangela","Kangaskhan","Horsea","Seadra","Goldeen","Seaking","Staryu","Starmie","Mr. Mime","Scyther","Jynx","Electabuzz","Magmar","Pinsir","Tauros","Magikarp","Gyarados","Lapras","Ditto","Eevee","Vaporeon","Jolteon","Flareon","Porygon","Omanyte","Omastar","Kabuto","Kabutops","Aerodactyl","Snorlax","Articuno","Zapdos","Moltres","Dratini","Dragonair","Dragonite","Mewtwo","Mew",
+	"Chikorita","Bayleef","Meganium","Cyndaquil","Quilava","Typhlosion","Totodile","Croconaw","Feraligatr","Sentret","Furret","Hoothoot","Noctowl","Ledyba","Ledian","Spinarak","Ariados","Crobat","Chinchou","Lanturn","Pichu","Cleffa","Igglybuff","Togepi","Togetic","Natu","Xatu","Mareep","Flaaffy","Ampharos","Bellossom","Marill","Azumarill","Sudowoodo","Politoed","Hoppip","Skiploom","Jumpluff","Aipom","Sunkern","Sunflora","Yanma","Wooper","Quagsire","Espeon","Umbreon","Murkrow","Slowking","Misdreavus","Unown","Wobbuffet","Girafarig","Pineco","Forretress","Dunsparce","Gligar","Steelix","Snubbull","Granbull","Qwilfish","Scizor","Shuckle","Heracross","Sneasel","Teddiursa","Ursaring","Slugma","Magcargo","Swinub","Piloswine","Corsola","Remoraid","Octillery","Delibird","Mantine","Skarmory","Houndour","Houndoom","Kingdra","Phanpy","Donphan","Porygon2","Stantler","Smeargle","Tyrogue","Hitmontop","Smoochum","Elekid","Magby","Miltank","Blissey","Raikou","Entei","Suicune","Larvitar","Pupitar","Tyranitar","Lugia","Ho-Oh","Celebi",
+	"Treecko","Grovyle","Sceptile","Torchic","Combusken","Blaziken","Mudkip","Marshtomp","Swampert","Poochyena","Mightyena","Zigzagoon","Linoone","Wurmple","Silcoon","Beautifly","Cascoon","Dustox","Lotad","Lombre","Ludicolo","Seedot","Nuzleaf","Shiftry","Taillow","Swellow","Wingull","Pelipper","Ralts","Kirlia","Gardevoir","Surskit","Masquerain","Shroomish","Breloom","Slakoth","Vigoroth","Slaking","Nincada","Ninjask","Shedinja","Whismur","Loudred","Exploud","Makuhita","Hariyama","Azurill","Nosepass","Skitty","Delcatty","Sableye","Mawile","Aron","Lairon","Aggron","Meditite","Medicham","Electrike","Manectric","Plusle","Minun","Volbeat","Illumise","Roselia","Gulpin","Swalot","Carvanha","Sharpedo","Wailmer","Wailord","Numel","Camerupt","Torkoal","Spoink","Grumpig","Spinda","Trapinch","Vibrava","Flygon","Cacnea","Cacturne","Swablu","Altaria","Zangoose","Seviper","Lunatone","Solrock","Barboach","Whiscash","Corphish","Crawdaunt","Baltoy","Claydol","Lileep","Cradily","Anorith","Armaldo","Feebas","Milotic","Castform","Kecleon","Shuppet","Banette","Duskull","Dusclops","Tropius","Chimecho","Absol","Wynaut","Snorunt","Glalie","Spheal","Sealeo","Walrein","Clamperl","Huntail","Gorebyss","Relicanth","Luvdisc","Bagon","Shelgon","Salamence","Beldum","Metang","Metagross","Regirock","Regice","Registeel","Latias","Latios","Kyogre","Groudon","Rayquaza","Jirachi","Deoxys",
+	"Turtwig","Grotle","Torterra","Chimchar","Monferno","Infernape","Piplup","Prinplup","Empoleon","Starly","Staravia","Staraptor","Bidoof","Bibarel","Kricketot","Kricketune","Shinx","Luxio","Luxray","Budew","Roserade","Cranidos","Rampardos","Shieldon","Bastiodon","Burmy","Wormadam","Mothim","Combee","Vespiquen","Pachirisu","Buizel","Floatzel","Cherubi","Cherrim","Shellos","Gastrodon","Ambipom","Drifloon","Drifblim","Buneary","Lopunny","Mismagius","Honchkrow","Glameow","Purugly","Chingling","Stunky","Skuntank","Bronzor","Bronzong","Bonsly","Mime Jr.","Happiny","Chatot","Spiritomb","Gible","Gabite","Garchomp","Munchlax","Riolu","Lucario","Hippopotas","Hippowdon","Skorupi","Drapion","Croagunk","Toxicroak","Carnivine","Finneon","Lumineon","Mantyke","Snover","Abomasnow","Weavile","Magnezone","Lickilicky","Rhyperior","Tangrowth","Electivire","Magmortar","Togekiss","Yanmega","Leafeon","Glaceon","Gliscor","Mamoswine","Porygon-Z","Gallade","Probopass","Dusknoir","Froslass","Rotom","Uxie","Mesprit","Azelf","Dialga","Palkia","Heatran","Regigigas","Giratina","Cresselia","Phione","Manaphy","Darkrai","Shaymin","Arceus","Victini",
+	"Snivy","Servine","Serperior","Tepig","Pignite","Emboar","Oshawott","Dewott","Samurott","Patrat","Watchog","Lillipup","Herdier","Stoutland","Purrloin","Liepard","Pansage","Simisage","Pansear","Simisear","Panpour","Simipour","Munna","Musharna","Pidove","Tranquill","Unfezant","Blitzle","Zebstrika","Roggenrola","Boldore","Gigalith","Woobat","Swoobat","Drilbur","Excadrill","Audino","Timburr","Gurdurr","Conkeldurr","Tympole","Palpitoad","Seismitoad","Throh","Sawk","Sewaddle","Swadloon","Leavanny","Venipede","Whirlipede","Scolipede","Cottonee","Whimsicott","Petilil","Lilligant","Basculin","Blue-striped Basculin","Sandile","Krokorok","Krookodile","Darumaka","Darmanitan","Maractus","Dwebble","Crustle","Scraggy","Scrafty","Sigilyph","Yamask","Cofagrigus","Tirtouga","Carracosta","Archen","Archeops","Trubbish","Garbodor","Zorua","Zoroark","Minccino","Cinccino","Gothita","Gothorita","Gothitelle","Solosis","Duosion","Reuniclus","Ducklett","Swanna","Vanillite","Vanillish","Vanilluxe","Deerling","Sawsbuck","Emolga","Karrablast","Escavalier","Foongus","Amoonguss","Frillish","Jellicent","Alomomola","Joltik","Galvantula","Ferroseed","Ferrothorn","Klink","Klang","Klinklang","Tynamo","Eelektrik","Eelektross","Elgyem","Beheeyem","Litwick","Lampent","Chandelure","Axew","Fraxure","Haxorus","Cubchoo","Beartic","Cryogonal","Shelmet","Accelgor","Stunfisk","Mienfoo","Mienshao","Druddigon","Golett","Golurk","Pawniard","Bisharp","Bouffalant","Rufflet","Braviary","Vullaby","Mandibuzz","Heatmor","Durant","Deino","Zweilous","Hydreigon","Larvesta","Volcarona","Cobalion","Terrakion","Virizion","Tornadus","Thundurus","Reshiram","Zekrom","Landorus","Kyurem","Keldeo","Meloetta","Genesect",
+	"Chespin","Quilladin","Chesnaught","Fennekin","Braixen","Delphox","Froakie","Frogadier","Greninja","Bunnelby","Diggersby","Fletchling","Fletchinder","Talonflame","Scatterbug","Spewpa","Vivillon","Litleo","Pyroar","Flabébé","Floette","Florges","Skiddo","Gogoat","Pancham","Pangoro","Furfrou","Espurr","Meowstic","Honedge","Doublade","Aegislash","Spritzee","Aromatisse","Swirlix","Slurpuff","Inkay","Malamar","Binacle","Barbaracle","Skrelp","Dragalge","Clauncher","Clawitzer","Helioptile","Heliolisk","Tyrunt","Tyrantrum","Amaura","Aurorus","Sylveon","Hawlucha","Dedenne","Carbink","Goomy","Sliggoo","Goodra","Klefki","Phantump","Trevenant","Pumpkaboo","Gourgeist","Bergmite","Avalugg","Noibat","Noivern","Xerneas","Yveltal","Zygarde","Diancie","Hoopa","Volcanion",
+	"Rowlet","Dartrix","Decidueye","Litten","Torracat","Incineroar","Popplio","Brionne","Primarina","Pikipek","Trumbeak","Toucannon","Yungoos","Gumshoos","Grubbin","Charjabug","Vikavolt","Crabrawler","Crabominable","Oricorio","Sensu Oricorio","Pa'u Oricorio","Pom-pom Oricorio","Cutiefly","Ribombee","Rockruff","Lycanroc","Wishiwashi","Mareanie","Toxapex","Mudbray","Mudsdale","Dewpider","Araquanid","Fomantis","Lurantis","Morelull","Shiinotic","Salandit","Salazzle","Stufful","Bewear","Bounsweet","Steenee","Tsareena","Comfey","Oranguru","Passimian","Wimpod","Golisopod","Sandygast","Palossand","Pyukumuku","Type: Null","Silvally","Minior","Komala","Turtonator","Togedemaru","Mimikyu","Bruxish","Drampa","Dhelmise","Jangmo-o","Hakamo-o","Kommo-o","Tapu Koko","Tapu Lele","Tapu Bulu","Tapu Fini","Cosmog","Cosmoem","Solgaleo","Lunala","Nihilego","Buzzwole","Pheromosa","Xurkitree","Celesteela","Kartana","Guzzlord","Necrozma","Magearna","Marshadow","Poipole","Naganadel","Stakataka","Blacephalon","Zeraora","Meltan","Melmetal",
+	"Grookey","Thwackey","Rillaboom","Scorbunny","Raboot","Cinderace","Sobble","Drizzile","Inteleon","Skwovet","Greedent","Rookidee","Corvisquire","Corviknight","Blipbug","Dottler","Orbeetle","Nickit","Thievul","Gossifleur","Eldegoss","Wooloo","Dubwool","Chewtle","Drednaw","Yamper","Boltund","Rolycoly","Carkol","Coalossal","Applin","Flapple","Appletun","Silicobra","Sandaconda","Cramorant","Arrokuda","Barraskewda","Toxel","Toxtricity","Sizzlipede","Centiskorch","Clobbopus","Grapploct","Sinistea","Polteageist","Hatenna","Hattrem","Hatterene","Impidimp","Morgrem","Grimmsnarl","Obstagoon","Perrserker","Cursola","Sirfetch'd","Mr. Rime","Runerigus","Milcery","Alcremie","Falinks","Pincurchin","Snom","Frosmoth","Stonjourner","Eiscue","Indeedee","Morpeko","Cufant","Copperajah","Dracozolt","Arctozolt","Dracovish","Arctovish","Duraludon","Dreepy","Drakloak","Dragapult","Zacian","Zamazenta","Eternatus","Kubfu","Urshifu","Zarude","Regieleki","Regidrago","Glastrier","Spectrier","Calyrex","Wyrdeer","Kleavor","Ursaluna","Basculegion","Sneasler","Overqwil","Enamorus",
+	"Sprigatito","Floragato","Meowscarada","Fuecoco","Crocalor","Skeledirge","Quaxly","Quaxwell","Quaquaval","Lechonk","Oinkologne","Tarountula","Spidops","Nymble","Lokix","Pawmi","Pawmo","Pawmot","Tandemaus","Maushold","Fidough","Dachsbun","Smoliv","Dolliv","Arboliva","Squawkabilly","Nacli","Naclstack","Garganacl","Charcadet","Armarouge","Ceruledge","Tadbulb","Bellibolt","Wattrel","Kilowattrel","Maschiff","Mabosstiff","Shroodle","Grafaiai","Bramblin","Brambleghast","Toedscool","Toedscruel","Klawf","Capsakid","Scovillain","Rellor","Rabsca","Flittle","Espathra","Tinkatink","Tinkatuff","Tinkaton","Wiglett","Wugtrio","Bombirdier","Finizen","Palafin","Varoom","Revavroom","Cyclizar","Orthworm","Glimmet","Glimmora","Greavard","Houndstone","Flamigo","Cetoddle","Cetitan","Veluza","Dondozo","Tatsugiri","Annihilape","Clodsire","Farigiraf","Dudunsparce","Kingambit","Great Tusk","Scream Tail","Brute Bonnet","Flutter Mane","Slither Wing","Sandy Shocks","Iron Treads","Iron Bundle","Iron Hands","Iron Jugulis","Iron Moth","Iron Thorns","Frigibax","Arctibax","Baxcalibur","Gimmighoul","Gholdengo","Wo-Chien","Chien-Pao","Ting-Lu","Chi-Yu","Roaring Moon","Iron Valiant","Koraidon","Miraidon","Walking Wake","Iron Leaves","Dipplin","Poltchageist","Sinistcha","Okidogi","Munkidori","Fezandipiti","Ogerpon","Archaludon","Hydrapple","Gouging Fire","Raging Bolt","Iron Boulder","Iron Crown","Terapagos","Pecharunt"] #1025
 morse={'A':"•-",'B':"-•••",'C':"-•-•",'D':"-••",'E':"•",'F':"••-•",'G':"--•",'H':"••••",'I':"••",'J':"•---",'K':"-•-",'L':"•-••",'M':"--",'N':"-•",'O':"---",'P':"•--•",'Q':"--•-",'R':"•-•",'S':"•••",'T':"-",'U':"••-",'V':"•••-",'W':"•--",'X':"-••-",'Y':"-•--",'Z':"--••",'1':"•----",'2':"••---",'3':"•••--",'4':"••••-",'5':"•••••",'6':"-••••",'7':"--•••",'8':"---••",'9':"----•",'0':"-----",'?':"••--••",'!':"-•-•--",'.':"•-•-•-",',':"--••--",';':"-•-•-•",':':"---•••",'+':"•-•-•",'-':"-••••-",'/':"-••-•",'=':"-•••-"}
 import random
 import yt_dlp
@@ -7,7 +15,7 @@ import asyncio
 import discord
 from collections import deque
 from discord.ext import commands
-from discord.ui import Button, View, Modal, TextInput
+from discord.ui import Button, View
 
 # Create a file handler that appends logs
 file_handler = logging.FileHandler("bot_logs.txt", mode="a", encoding="utf-8")
@@ -27,38 +35,74 @@ bot = commands.Bot(command_prefix=';',intents=intents)
 # ---------- VOICE HELPERS ----------
 queues = {}
 def get_queue(guild_id):
-    if guild_id not in queues:
-        queues[guild_id] = deque()
-    return queues[guild_id]
-
+	if guild_id not in queues:
+		queues[guild_id] = deque()
+	return queues[guild_id]
 async def fetch_info(query):
-    ydl_opts = {"format": "bestaudio", "noplaylist": True, "quiet": True}
-    loop = asyncio.get_running_loop()
-    return await loop.run_in_executor(None, lambda: yt_dlp.YoutubeDL(ydl_opts).extract_info(query, download=False))
-
+	ydl_opts = {"format": "bestaudio/best", "noplaylist": True, "quiet": True, "extractor_args": {"youtube": {"player_client": ["android", "web"]}}}
+	loop = asyncio.get_running_loop()
+	return await loop.run_in_executor(None, lambda: yt_dlp.YoutubeDL(ydl_opts).extract_info(query, download=False))
 async def play_next(ctx, guild_id):
-    queue = get_queue(guild_id)
-    if not queue:
-        await ctx.voice_client.disconnect()
-        return
-    song = queue[0]  # next song
-    ffmpeg_opts = {
-        "before_options": "-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5",
-        "options": "-vn"
-    }
-    source = discord.FFmpegPCMAudio(song["url"], **ffmpeg_opts)
-    def after_play(error):
-        if error:
-            print(f"Ignored FFmpeg error: {error}")
-        bot.loop.create_task(next_song(ctx, guild_id))
-    ctx.voice_client.play(source, after=after_play)
-
+	queue = get_queue(guild_id)
+	if not queue:
+		if ctx.voice_client:
+			await ctx.voice_client.disconnect()
+		return
+	song = queue[0]  # next song
+	ffmpeg_opts = {"before_options": "-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5", "options": "-vn" }
+	source = discord.FFmpegPCMAudio(song["url"], **ffmpeg_opts)
+	def after_play(error):
+		if error:
+			print(f"Ignored FFmpeg error: {error}")
+		asyncio.run_coroutine_threadsafe(next_song(ctx, guild_id),bot.loop)
+	ctx.voice_client.play(source, after=after_play)
 async def next_song(ctx, guild_id):
-    queue = get_queue(guild_id)
-    if queue:
-        queue.popleft()  # remove current song
-        if queue:
-            await play_next(ctx, guild_id)
+	queue = get_queue(guild_id)
+	if queue:
+		queue.popleft()  # remove current song
+		if queue:
+			await play_next(ctx, guild_id)
+
+class MusicButtons(View):
+	def __init__(self):
+		super().__init__(timeout=None)
+	@discord.ui.button(label="⏯ Pause/Resume", style=discord.ButtonStyle.primary)
+	async def pause_resume(self, interaction: discord.Interaction, button: Button):
+		vc = interaction.guild.voice_client
+		if vc.is_playing():
+			vc.pause()
+			await interaction.response.send_message("⏸ Paused")
+		elif vc.is_paused():
+			vc.resume()
+			await interaction.response.send_message("▶ Resumed")
+	@discord.ui.button(label="⏭ Skip", style=discord.ButtonStyle.secondary)
+	async def skip(self, interaction: discord.Interaction, button: discord.ui.Button):
+		vc = interaction.guild.voice_client
+		if not vc:
+			await interaction.response.send_message("I'm not in a voice channel.", ephemeral=True)
+			return
+		if vc.is_paused():
+			vc.resume()
+		vc.stop()
+		await interaction.response.send_message("⏭ Skipped")
+	@discord.ui.button(label="🗑 Stop & Clear", style=discord.ButtonStyle.danger)
+	async def stop_all(self, interaction: discord.Interaction, button: discord.ui.Button):
+		guild_id = interaction.guild.id
+		queue = get_queue(guild_id)
+		queue.clear()
+		vc = interaction.guild.voice_client
+		if vc:
+			vc.stop()  # safe stop
+		await interaction.response.send_message("🗑 Stopped and cleared queue")
+	@discord.ui.button(label="Queue", style=discord.ButtonStyle.secondary)
+	async def show_queue(self, interaction: discord.Interaction, button: Button):
+		guild_id = interaction.guild.id
+		queue = get_queue(guild_id)
+		if not queue:
+			await interaction.response.send_message("Queue is empty.", ephemeral=True)
+		else:
+			msg = "\n".join([f"{i+1}. {s['title']}" for i, s in enumerate(queue)])
+			await interaction.response.send_message(f"Queue:\n{msg}", ephemeral=True)
 
 #COMMANDS
 #Social
@@ -83,11 +127,11 @@ async def hug(ctx,*,member:discord.Member=None):
 		if not member:
 			await ctx.reply("Ping someone")
 		else:
-			k=discord.Color.from_rgb(random.randint(0,255),random.randint(0,255),random.randint(0,255))
+			col=discord.Color.from_rgb(random.randint(0,255),random.randint(0,255),random.randint(0,255))
 			t=str(j[0:(len(j)-5)])
-			e=discord.Embed(title=str(ctx.author.name)+" hugs "+t,color=k)
+			e=discord.Embed(title=str(ctx.author.name)+" hugs "+t,color=col)
 			if ctx.author.name==t:
-				e=discord.Embed(title="Rin-chan hugs "+t,color=k)
+				e=discord.Embed(title="Rin-chan hugs "+t,color=col)
 			v=random.randint(0,7)
 			hug=["https://media.discordapp.net/attachments/862171192261345280/869928566450696192/tenor.gif","https://i.imgur.com/f8C9M7n.gif","https://i.pinimg.com/originals/85/72/a1/8572a1d1ebaa45fae290e6760b59caac.gif","https://cdn.weeb.sh/images/SknauOQwb.gif","https://cdn.weeb.sh/images/rkx1dJ25z.gif","https://66.media.tumblr.com/607bc7d527ba0dff8e16f27f839da02d/tumblr_msii46Qegu1sgjyb4o1_400.gif","https://i.pinimg.com/originals/48/83/3e/48833e7a66a2453212ddb2933e099b18.gif","https://cdn.weeb.sh/images/ryuhhuJdb.gif"]
 			e.set_image(url=hug[v])
@@ -98,14 +142,14 @@ async def kiss(ctx,*,member:discord.Member=None):
 		if not member:
 			await ctx.reply("Ping someone")
 		else:
-			k=discord.Color.from_rgb(random.randint(0,255),random.randint(0,255),random.randint(0,255))
+			col=discord.Color.from_rgb(random.randint(0,255),random.randint(0,255),random.randint(0,255))
 			t=str(j[0:(len(j)-5)])
-			e=discord.Embed(title=str(ctx.author.name)+" kissed "+t,color=k)
+			e=discord.Embed(title=str(ctx.author.name)+" kissed "+t,color=col)
 			if ctx.author.name==t:
-				e=discord.Embed(title="Rin-chan kissed "+t,color=k)
+				e=discord.Embed(title="Rin-chan kissed "+t,color=col)
 			v=random.randint(0,4)
-			hug=["https://cdn.myanimelist.net/s/common/uploaded_files/1483588705-b321623c459d2a7001761459d2c8707a.gif","https://cdn.myanimelist.net/s/common/uploaded_files/1483589017-3fbb8453e1ba6b5e7b63264199d177f5.gif","https://cdn69.picsart.com/191947441000202.gif?to=min&r=640","https://data.whicdn.com/images/200294594/original.gif","https://c.tenor.com/9IHLn02sU7MAAAAC/anime-beijo.gif"]
-			e.set_image(url=hug[v])
+			kiss=["https://cdn.myanimelist.net/s/common/uploaded_files/1483588705-b321623c459d2a7001761459d2c8707a.gif","https://cdn.myanimelist.net/s/common/uploaded_files/1483589017-3fbb8453e1ba6b5e7b63264199d177f5.gif","https://cdn69.picsart.com/191947441000202.gif?to=min&r=640","https://data.whicdn.com/images/200294594/original.gif","https://c.tenor.com/9IHLn02sU7MAAAAC/anime-beijo.gif"]
+			e.set_image(url=kiss[v])
 			await ctx.send(embed=e)
 @bot.command(help="Poll")
 async def poll(ctx,ques,ch1,ch2,ch3=None,ch4=None,ch5=None,ch6=None,ch7=None,ch8=None,ch9=None,ch10=None):
@@ -124,7 +168,7 @@ async def poll(ctx,ques,ch1,ch2,ch3=None,ch4=None,ch5=None,ch6=None,ch7=None,ch8
 		mess,n="".join([mess,"\n:eight: "+ch8]),8
 	if ch9:
 		mess,n="".join([mess,"\n:nine: "+ch9]),9
-	if ch10:
+	if ch10:	
 		mess,n="".join([mess,"\n:keycap_ten: "+ch10]),10
 	e=discord.Embed(title=ques,description=":one: "+ch1+"\n:two: "+ch2+mess,color=discord.Color.from_rgb(134,243,71))
 	e.set_footer(text="Requested by "+ctx.author.name,icon_url=ctx.message.author.display_avatar)
@@ -206,138 +250,44 @@ async def rps(ctx,*,msg):
 #Music
 @bot.command()
 async def join(ctx):
-    if ctx.author.voice:
-        await ctx.author.voice.channel.connect()
-        logging.info(f"Joined voice channel {ctx.author.voice.channel} in guild {ctx.guild.name}")
-    else:
-        await ctx.send("You must be in a voice channel first.")
-        logging.info(f"{ctx.author} tried to join but was not in a voice channel")
-
+	if not ctx.author.voice:
+		await ctx.send("You must be in a voice channel first.")
+		return
+	voice_channel = ctx.author.voice.channel
+	if ctx.voice_client:
+		if ctx.voice_client.channel == voice_channel:
+			return
+		await ctx.voice_client.move_to(voice_channel)
+		return
+	await voice_channel.connect(reconnect=True)
+	logging.info(f"Joined voice channel {ctx.author.voice.channel} in guild {ctx.guild.name}")
 @bot.command()
 async def leave(ctx):
-    if ctx.voice_client:
-        await ctx.voice_client.disconnect()
-    else:
-        await ctx.send("I'm not in a voice channel.")
-
+	if ctx.voice_client:
+		await ctx.voice_client.disconnect()
+	else:
+		await ctx.send("I'm not in a voice channel.")
 @bot.command()
 async def play(ctx, *, query: str):
-    vc = ctx.voice_client
-    if not vc:
-        await ctx.invoke(join)
-        vc = ctx.voice_client
-
-    ydl_opts = {
-        "format": "bestaudio",
-        "noplaylist": True,
-        "default_search": "ytsearch1",
-        "quiet": True
-    }
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(query, download=False)
-        if "entries" in info:
-            info = info["entries"][0]
-        audio_url = info["url"]
-
-    guild_id = ctx.guild.id
-    queue = get_queue(guild_id)
-    queue.append({"title": info["title"], "url": audio_url})
-
-    if not vc.is_playing() and not vc.is_paused():
-        await play_next(ctx, guild_id)
-
-    class MusicButtons(View):
-        def __init__(self):
-            super().__init__(timeout=None)
-
-        @discord.ui.button(label="⏯ Pause/Resume", style=discord.ButtonStyle.primary)
-        async def pause_resume(self, interaction: discord.Interaction, button: Button):
-            if vc.is_playing():
-                vc.pause()
-                await interaction.response.send_message("⏸ Paused")
-            elif vc.is_paused():
-                vc.resume()
-                await interaction.response.send_message("▶ Resumed")
-
-        @discord.ui.button(label="⏭ Skip", style=discord.ButtonStyle.secondary)
-        async def skip(self, interaction: discord.Interaction, button: discord.ui.Button):
-            vc = interaction.guild.voice_client
-            if not vc:
-                await interaction.response.send_message("I'm not in a voice channel.", ephemeral=True)
-                return
-            if vc.is_paused():
-                vc.resume()
-            vc.stop()
-            await interaction.response.send_message("⏭ Skipped")
-
-        @discord.ui.button(label="🗑 Stop & Clear", style=discord.ButtonStyle.danger)
-        async def stop_all(self, interaction: discord.Interaction, button: discord.ui.Button):
-            guild_id = interaction.guild.id
-            queue = get_queue(guild_id)
-            queue.clear()
-            vc = interaction.guild.voice_client
-            if vc:
-                vc.stop()  # safe stop
-            await interaction.response.send_message("🗑 Stopped and cleared queue")
-
-        @discord.ui.button(label="Queue", style=discord.ButtonStyle.secondary)
-        async def show_queue(self, interaction: discord.Interaction, button: Button):
-            if not queue:
-                await interaction.response.send_message("Queue is empty.", ephemeral=True)
-            else:
-                msg = "\n".join([f"{i+1}. {s['title']}" for i, s in enumerate(queue)])
-                await interaction.response.send_message(f"Queue:\n{msg}", ephemeral=True)
-
-        @discord.ui.button(label="Remove Song", style=discord.ButtonStyle.secondary)
-        async def remove_song(self, interaction: discord.Interaction, button: Button):
-            class RemoveModal(Modal):
-                def __init__(self):
-                    super().__init__("Remove Song from Queue")
-                    self.song_number = TextInput(label="Song Number to Remove", placeholder="Enter a number", required=True)
-                    self.add_item(self.song_number)
-                async def callback(self, modal_interaction: discord.Interaction):
-                    try:
-                        num = int(self.song_number.value)
-                        if 1 <= num <= len(queue):
-                            removed = queue[num-1]["title"]
-                            del queue[num-1]
-                            await modal_interaction.response.send_message(f"Removed **{removed}** from the queue", ephemeral=True)
-                        else:
-                            await modal_interaction.response.send_message("Invalid song number", ephemeral=True)
-                    except ValueError:
-                        await modal_interaction.response.send_message("Please enter a valid number", ephemeral=True)
-            await interaction.response.send_modal(RemoveModal())
-    await ctx.send(f"Added to queue: **{info['title']}**", view=MusicButtons())
+	vc = ctx.voice_client
+	if not vc:
+		await ctx.invoke(join)
+		vc = ctx.voice_client
+		if not vc:
+			await ctx.send("Failed to join voice channel.")
+			return
+	info = await fetch_info(f"ytsearch1:{query}")
+	if "entries" in info:
+		info = info["entries"][0]
+	audio_url = info["url"]
+	guild_id = ctx.guild.id
+	queue = get_queue(guild_id)
+	queue.append({"title": info["title"], "url": audio_url})
+	if not vc.is_playing() and not vc.is_paused():
+		await play_next(ctx, guild_id)
+	await ctx.send(f"Added to queue: **{info['title']}**", view=music_view)
 
 #Pokemon
-@bot.command(help="Gigantamax Pokemon")
-async def giga(ctx,*,sub=None):
-	if not sub or sub=="1":
-		p1="Alcremie\nAppletun\nBlastoise\nButterfree\nCentiskorch\nCharizard\nCinderace\nCoalossal\nCopperajah\nCorviknight\nDrednaw\nDuraludon\nEevee\nFlapple\nGarbodor\nGengar"
-		e=discord.Embed (title="**Gigantamax Pokemon P1**",description=p1,color=discord.Color.red())
-		e.set_footer(text="See the second page using ;giga 2")
-		await ctx.send(embed=e)
-	elif sub=="2":
-		p2="Grimmsnarl\nHatterene\nInteleon\nKingler\nLapras\nMachamp\nMelmetal\nMeowth\nOrbeetle\nPikachu\nRillaboom\nSandaconda\nSnorlax\nToxtricity\nUrshifu\nVenusaur"
-		e=discord.Embed (title="**Gigantamax Pokemon P2**",description=p2,color=discord.Color.red())
-		e.set_footer(text="See the first page using ;giga")
-		await ctx.send(embed=e)
-	else:
-		await ctx.reply("'giga' has only 2 pages")
-@bot.command(help="Mega Pokemon")
-async def mega(ctx,*,sub=None):
-	if not sub or sub=="1":
-		p1="Abomasnow\nAbsol\nAerodactyl\nAggron (-Rock)\nAlakazam\nAltaria (Flying --> Fairy)\nAmpharos (+Dragon)\nAudino (+Fairy)\nBanette\nBeedrill\nBlastoise\nBlaziken\nCamerupt\nCharizard X (Flying --> Dragon)\nCharizard Y\nDiancie\nGallade\nGarchomp\nGardevoir\nGengar\nGlalie\nGyarados\nHeracross\nHoundoom"
-		e=discord.Embed (title="**Mega-Evolved Pokemon P1**",description=p1,color=discord.Color.red())
-		e.set_footer(text="See the second page using ;mega 2")
-		await ctx.send(embed=e)
-	elif sub=="2":
-		p2="Kangaskhan\nLatias\nLatios\nLopunny (+Flying)\nLucario\nManectric\nMawile\nMedicham\nMetagross\nMewtwo X (+Fighting)\nMewtwo Y\nPidgeot\nPinsir (+Flying)\nRayquaza (Flying --> Dark)\nSableye\nSalamence\nSceptile (+Dragon)\nScizor\nSharpedo\nSlowbro\nSteelix\nSwampert\nTyranitar\nVenusaur"
-		e=discord.Embed (title="**Mega-Evolved Pokemon P2**",description=p2,color=discord.Color.red())
-		e.set_footer(text="See the first page using ;mega")
-		await ctx.send(embed=e)
-	else:
-		await ctx.reply("'mega' has only 2 pages")
 @bot.command(help="Poketwo Info")
 async def pinfo(ctx):
 	e=discord.Embed(title="**Poke-Info**",description="*#This bot acts as a companion to Pokétwo#8236 and answers to* **\"The pokémon is <name>.**\" with a pokemon name.\n*#This bot guesses the pokemon according to the hint supplied (use the hint command of Pokétwo#8236), which may result in multiple guesses*.\n*#This bot does not consider regions and events.*\n**Example:-**\nAlolan Raichu --> Raichu\nAnniversary Wooloo --> Wooloo\n*#This bot also provides a list of all mega and gigantamax pokemon*",color=discord.Color.from_rgb(255,105,180))
@@ -386,11 +336,8 @@ async def md(ctx,*,sub):
 async def help(ctx,*,sub=None):
 	if not sub:
 		e=discord.Embed(title="**Help Commands**",description="**Social**\navatar   hug   kiss   poll   say\n**Miscellanous**\ngoogle   invite   ping   purge   rps\n**Pokemon**\ngiga   mega   pinfo\n**Songs**\njoin   leave   play\n**No Category**\nhelp   imp   mc   md",color=discord.Color.from_rgb(255,105,180))
-		e.set_footer(text="Created By <insert_owner_id>")
 	elif sub=="avatar" or sub=="av":
 		e=discord.Embed(title="Avatar",description="View everybody's avatar\n**Aliases:**\nav\n**Usage:**\n;av                         Your Avatar\n;av [member]    Other's avatar\n*Non-gif profiles get a special showcase of their avatar.*",color=discord.Color.from_rgb(255,105,180))
-	elif sub=="giga":
-		e=discord.Embed(title="Giga",description="This command gives a list of all pokemon in alphabetic manner.\n`;giga` gives the names of pokemon starting with Alphabets A to G.\nThe rest can be seen using `;giga 2`",color=discord.Color.from_rgb(255,105,180))
 	elif sub=="google" or sub=="ggl":
 		e=discord.Embed(title="Google",description="Get a google link to what you want\n**Aliases:**\nggl\n**Usage**\n;ggl How to use discord",color=discord.Color.from_rgb(255,105,180))
 	elif sub=="help":
@@ -398,7 +345,7 @@ async def help(ctx,*,sub=None):
 	elif sub=="hug":
 		e=discord.Embed(title="Hug",description="Hug Others\n**Usage:**\n;hug [member]",color=discord.Color.from_rgb(255,105,180))
 	elif sub=="imp":
-		e=discord.Embed(title="Impersonate",description="Impersonate as others\n**Usage:**\n;imp <message> [member]\nNote that message has to be written in ""  and also that member's name and id both can be used\n**Example:**\n;imp \"Hello\" MightyAnik#0470\n;imp \"Hello\" 752233106836160652",color=discord.Color.from_rgb(255,105,180))
+		e=discord.Embed(title="Impersonate",description="Impersonate as others\n**Usage:**\n;imp <message> [member]\nNote that message has to be written in ""  and also that member's name and id both can be used\n**Example:**\n;imp \"Hello\" Anik#6360\n;imp \"Hello\" 7522331068361657382",color=discord.Color.from_rgb(255,105,180))
 	elif sub=="invite":
 		e=discord.Embed(title="Invite Link",description="Get an invite link for the bot",color=discord.Color.from_rgb(255,105,180))
 	elif sub=="kiss":
@@ -407,8 +354,6 @@ async def help(ctx,*,sub=None):
 		e=discord.Embed(title="Morse Code",description="Morse Code A Sentence\n**Usage:**\n;mc <sentence>",color=discord.Color.from_rgb(255,105,180))
 	elif sub=="md":
 		e=discord.Embed(title="Morse Decode",description="Morse Decode A Coded Sentence\n**Usage:**\n;md <sentence>",color=discord.Color.from_rgb(255,105,180))
-	elif sub=="mega":
-		e=discord.Embed(title="Mega",description="This command gives a list of all pokemon in alphabetic manner.\n`;mega` gives the names of pokemon starting with Alphabets A to H.\nThe rest can be seen using `;mega 2`",color=discord.Color.from_rgb(255,105,180))
 	elif sub=="pinfo":
 		e=discord.Embed(title="Pinfo",description="Info on pokemon guessing (Pokétwo#8236)",color=discord.Color.from_rgb(255,105,180))
 	elif sub=="ping":
@@ -424,6 +369,7 @@ async def help(ctx,*,sub=None):
 	await ctx.send(embed=e)
 
 #Event
+music_view = None
 @bot.event
 async def on_command_error(ctx,error):
 	if isinstance(error,commands.CommandNotFound):
@@ -432,14 +378,24 @@ async def on_command_error(ctx,error):
 		print(error)
 @bot.event
 async def on_ready():
-	act=discord.Game(name="Pokémon GO")
+	global music_view
+	if music_view is None:
+		music_view = MusicButtons()
+	print(f"Logged in as {bot.user}")
+	act=discord.Game(name="DBZ Kakarot")
 	await bot.change_presence(activity=act,status=discord.Status.online)
 @bot.event
 async def on_voice_state_update(member, before, after):
-    if before.channel is not None:
-        vc = before.channel.guild.voice_client
-        if vc and len(before.channel.members) == 1:  # only bot left
-            await vc.disconnect()
+	vc = member.guild.voice_client
+	if not vc:
+		return
+	if vc.channel and len([m for m in vc.channel.members if not m.bot]) == 0:
+		logging.info(f"Disconnecting from {vc.channel} in {member.guild.name} (channel empty)")
+		await vc.disconnect()
+@bot.event
+async def on_disconnect():
+	for vc in bot.voice_clients:
+		await vc.disconnect(force=True)
 @bot.event
 async def on_message(m):
 	msg=m.content
@@ -452,7 +408,7 @@ async def on_message(m):
 		if "curse" in msg:
 			await m.channel.send("https://pa1.narvii.com/6149/c168b70bef03352787323fe4cb3b655fe57d31ae_hq.gif")
 	if "The pokémon is" in msg:
-		pks=str(msg[(msg.rindex(" ")+1):(len(msg)-1)])
+		pks=str(msg[(msg.rindex(" ")+1):(len(msg)-1)]) ##Extract Pokemon Name
 		name,name2="",""
 		for i in pks:
 			if i!="\\":
