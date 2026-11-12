@@ -6,4 +6,4 @@ Two lines are to be modified in the main code:-
 
 #NOTE
 1. Code won't run if the 2nd point is not fulfilled. Please look through a guide on how to create a bot using the "Discord Developer Portal".
-2. Download "ffmpeg" and extract it to use the music playback part of the code.
+2. Download "Ffmpeg (Shared)" via winget to use the music playback part of the code.
